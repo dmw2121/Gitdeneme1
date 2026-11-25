@@ -6,7 +6,7 @@ tile colors to solve the hidden word in six guesses.
 
 ## Run the app
 
-Install the Flutter stable SDK, then run:
+Install Flutter 3.50.1 or later, then run:
 
 ```shell
 flutter create --project-name lingo --org com.dmw2121 --platforms android .
